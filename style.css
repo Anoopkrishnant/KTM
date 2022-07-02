@@ -1,0 +1,123 @@
+@import url(//db.onlinewebfonts.com/c/335787aa6f57d71cabe8eb5dc89c6d6b?family=Blender+Pro);
+
+.carousel-item{
+    background-size: cover;
+    position: relative;
+    max-height: auto;
+    
+}
+.header-icons{
+    font-size: 25px;
+    color: hsl(28, 100%, 50%);
+}
+.collapse navbar-collapse {
+    font-family:"Blender pro";
+}
+.nav-item{
+    font-family:"blender pro";
+    font-size: medium;
+    font-weight: 700;
+    word-spacing: 2em;
+}
+.firstb{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    list-style-type: none;
+    text-align: center;
+}
+.firstb ul li h1{
+    font-weight: 700!important;
+   
+    
+}
+.headb:hover{
+    background:transparent;
+    color:darkorange;
+    border-color: #f60;
+}
+img{
+    max-width: 100%;
+}
+.gallery{
+    background-color: #fff;
+    padding: 80px 0;
+}
+.col{
+    font-size: 1em;
+}
+page6col2{
+    color: white;
+}
+.page6b:hover{
+    background: none;
+    color: #f60;
+    border-color: #f60;
+   }
+.page6b{
+    background-color:black;
+    color: white;
+    border-color: white;
+    justify-content: center;
+    border-radius: 0;    
+}
+.bclass{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.page6all{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.page6b2{
+    background-color:white;
+    color: #f60;
+    border-color: #f60;
+    justify-content: center;
+    border-radius: 0;    
+}
+.page6b2:hover{
+    background: #f60;
+    color:white;
+    border-color: #f60;
+}
+.c-footer{
+background-color: black;
+color: #fff;
+}    
+
+.container{
+    text-decoration: none;
+    
+}
+ul {
+    text-decoration: none;
+    list-style-type: none;
+}
+.uil-arrow-up{
+    size: 50px;
+}
+.c-footer__icons img {
+    display: flex;
+    flex-direction: row ;
+    justify-content: space-between;
+}
+a{
+    color: #fff;
+    text-decoration: none;
+    font-family:inherit;
+    font: size 100;;
+    font-weight:normal;
+}
+h3{
+    font-size: 200;
+    font-family:"blender pro";
+    font-weight: bold;
+}
+a:hover{
+    color: #f60;
+}
